@@ -1,0 +1,101 @@
+id,type,itemName,category,description,location,date,contact
+LF079,Lost,umbrella,Other,pink black umbrella; personal markings,Outdoor Area - Claremont McKenna College,2026-11-15,lost_demo@example.edu
+LF009,Lost,calculator,Electronics,black graphing calculator; in good condition,Outdoor Area - Scripps College,2026-11-10,lost_demo@example.edu
+LF059,Lost,tote bag,Bags,gray library tote; stickers on it,Athletic Center - Pomona College,2026-11-12,lost_demo@example.edu
+LF097,Lost,wallet,Accessories,black brown wallet; small scratch,Library - Claremont McKenna College,2026-11-06,lost_demo@example.edu
+LF040,Found,textbook,Books,gray economics textbook; personal markings,Campus Center - Scripps College,2026-11-24,found_demo@example.edu
+LF030,Found,tote bag,Bags,white blue tote bag; personal markings,Outdoor Area - Pomona College,2026-11-03,found_demo@example.edu
+LF085,Found,tote bag,Bags,pink library tote; in good condition,Dining Hall - Harvey Mudd College,2026-11-07,found_demo@example.edu
+LF092,Found,flash drive,Electronics,white USB flash drive; stickers on it,Campus Center - Scripps College,2026-11-14,found_demo@example.edu
+LF020,Found,backpack,Bags,brown black backpack; personal markings,Athletic Center - Claremont McKenna College,2026-11-05,found_demo@example.edu
+LF003,Lost,keys,Keys,red key ring; stickers on it,Library - Claremont McKenna College,2026-11-09,lost_demo@example.edu
+LF100,Found,keys,Keys,red silver keys; no visible damage,Outdoor Area - Scripps College,2026-11-23,found_demo@example.edu
+LF045,Lost,ring,Accessories,green silver ring; stickers on it,Library - Harvey Mudd College,2026-11-14,lost_demo@example.edu
+LF029,Lost,tote bag,Bags,white blue tote bag; personal markings,Outdoor Area - Pomona College,2026-11-03,lost_demo@example.edu
+LF034,Found,phone,Electronics,purple Google Pixel; in good condition,Outdoor Area - Harvey Mudd College,2026-11-16,found_demo@example.edu
+LF046,Found,ring,Accessories,green silver ring; stickers on it,Library - Harvey Mudd College,2026-11-14,found_demo@example.edu
+LF058,Lost,notebook,Books,brown lecture notebook; stickers on it,Athletic Center - Scripps College,2026-11-08,lost_demo@example.edu
+LF068,Lost,keys,Keys,white keys with keychain; stickers on it,Classroom - Pomona College,2026-11-09,lost_demo@example.edu
+LF050,Found,umbrella,Other,brown black umbrella; no visible damage,Honnold-Mudd Library - Pitzer College,2026-11-17,found_demo@example.edu
+LF010,Found,calculator,Electronics,black graphing calculator; in good condition,Outdoor Area - Scripps College,2026-11-10,found_demo@example.edu
+LF051,Lost,jacket,Clothing,blue black jacket; in good condition,Athletic Center - Scripps College,2026-11-24,lost_demo@example.edu
+LF093,Lost,laptop,Electronics,black HP laptop; personal markings,Dorm - Scripps College,2026-11-10,lost_demo@example.edu
+LF056,Found,phone,Electronics,white iPhone; no visible damage,Library - Scripps College,2026-11-19,found_demo@example.edu
+LF089,Found,laptop,Electronics,black Dell laptop; in good condition,Honnold-Mudd Library - Harvey Mudd College,2026-11-12,found_demo@example.edu
+LF035,Lost,water bottle,Water Bottles,black Hydro Flask; in good condition,Campus Center - Claremont McKenna College,2026-11-03,lost_demo@example.edu
+LF061,Found,phone,Electronics,red Google Pixel; no visible damage,Honnold-Mudd Library - Harvey Mudd College,2026-11-07,found_demo@example.edu
+LF021,Lost,bike lock,Other,purple combination bike lock; small scratch,Outdoor Area - Harvey Mudd College,2026-11-16,lost_demo@example.edu
+LF006,Found,charger,Electronics,gray USB-C charger; in good condition,Honnold-Mudd Library - Pitzer College,2026-11-01,found_demo@example.edu
+LF069,Lost,textbook,Books,silver biology textbook; small scratch,Honnold-Mudd Library - Harvey Mudd College,2026-11-04,lost_demo@example.edu
+LF031,Lost,notebook,Books,purple blue notebook; no visible damage,Dorm - Claremont McKenna College,2026-11-06,lost_demo@example.edu
+LF076,Found,student ID,ID Cards,white Pomona student ID; no visible damage,Athletic Center - Harvey Mudd College,2026-11-23,found_demo@example.edu
+LF027,Lost,glasses,Accessories,silver black glasses; in good condition,Dining Hall - Harvey Mudd College,2026-11-13,lost_demo@example.edu
+LF074,Lost,headphones,Electronics,white JBL headphones; in good condition,Honnold-Mudd Library - Pomona College,2026-11-20,lost_demo@example.edu
+LF064,Found,phone,Electronics,gray iPhone; stickers on it,Athletic Center - Scripps College,2026-11-20,found_demo@example.edu
+LF063,Lost,jacket,Clothing,gray Nike jacket; no visible damage,Library - Claremont McKenna College,2026-11-19,lost_demo@example.edu
+LF087,Found,laptop,Electronics,blue Dell laptop; small scratch,Library - Pomona College,2026-11-09,found_demo@example.edu
+LF002,Found,scarf,Clothing,blue red scarf; in good condition,Parking Lot - Claremont McKenna College,2026-11-10,found_demo@example.edu
+LF078,Found,student ID,ID Cards,red student identification; small scratch,Parking Lot - Scripps College,2026-11-24,found_demo@example.edu
+LF019,Lost,backpack,Bags,brown black backpack; personal markings,Athletic Center - Claremont McKenna College,2026-11-05,lost_demo@example.edu
+LF084,Found,water bottle,Water Bottles,white Hydro Flask; in good condition,Dorm - Claremont McKenna College,2026-11-18,found_demo@example.edu
+LF041,Lost,umbrella,Other,pink folding umbrella; personal markings,Dorm - Harvey Mudd College,2026-11-17,lost_demo@example.edu
+LF054,Lost,laptop,Electronics,pink MacBook Air; small scratch,Campus Center - Harvey Mudd College,2026-11-22,lost_demo@example.edu
+LF005,Lost,charger,Electronics,gray USB-C charger; in good condition,Honnold-Mudd Library - Pitzer College,2026-11-01,lost_demo@example.edu
+LF091,Lost,calculator,Electronics,gray TI calculator; no visible damage,Campus Center - Harvey Mudd College,2026-11-09,lost_demo@example.edu
+LF022,Found,bike lock,Other,purple combination bike lock; small scratch,Outdoor Area - Harvey Mudd College,2026-11-16,found_demo@example.edu
+LF043,Lost,ring,Accessories,gray gold ring; personal markings,Athletic Center - Claremont McKenna College,2026-11-14,lost_demo@example.edu
+LF013,Lost,wallet,Accessories,brown card holder; no visible damage,Classroom - Harvey Mudd College,2026-11-06,lost_demo@example.edu
+LF057,Lost,calculator,Electronics,silver graphing calculator; in good condition,Dining Hall - Pitzer College,2026-11-11,lost_demo@example.edu
+LF037,Lost,flash drive,Electronics,silver USB flash drive; no visible damage,Dorm - Pomona College,2026-11-24,lost_demo@example.edu
+LF032,Found,notebook,Books,purple blue notebook; no visible damage,Dorm - Claremont McKenna College,2026-11-06,found_demo@example.edu
+LF095,Lost,student ID,ID Cards,green Pomona student ID; stickers on it,Campus Center - Pomona College,2026-11-11,lost_demo@example.edu
+LF094,Lost,keys,Keys,purple silver keys; personal markings,Dorm - Pomona College,2026-11-07,lost_demo@example.edu
+LF098,Found,bike lock,Other,blue U-lock; no visible damage,Dorm - Pomona College,2026-11-10,found_demo@example.edu
+LF060,Lost,ring,Accessories,blue silver ring; stickers on it,Classroom - Pitzer College,2026-11-02,lost_demo@example.edu
+LF016,Found,laptop,Electronics,brown HP laptop; stickers on it,Classroom - Scripps College,2026-11-01,found_demo@example.edu
+LF036,Found,water bottle,Water Bottles,black Hydro Flask; in good condition,Campus Center - Claremont McKenna College,2026-11-03,found_demo@example.edu
+LF033,Lost,phone,Electronics,purple Google Pixel; in good condition,Outdoor Area - Harvey Mudd College,2026-11-16,lost_demo@example.edu
+LF015,Lost,laptop,Electronics,brown HP laptop; stickers on it,Classroom - Scripps College,2026-11-01,lost_demo@example.edu
+LF014,Found,wallet,Accessories,brown card holder; no visible damage,Classroom - Harvey Mudd College,2026-11-06,found_demo@example.edu
+LF024,Found,umbrella,Other,pink blue umbrella; personal markings,Dining Hall - Pomona College,2026-11-01,found_demo@example.edu
+LF080,Found,notebook,Books,red lecture notebook; stickers on it,Outdoor Area - Harvey Mudd College,2026-11-16,found_demo@example.edu
+LF072,Found,wallet,Accessories,blue black wallet; personal markings,Campus Center - Scripps College,2026-11-19,found_demo@example.edu
+LF055,Found,ring,Accessories,green silver ring; personal markings,Athletic Center - Pomona College,2026-11-18,found_demo@example.edu
+LF090,Found,laptop,Electronics,blue HP laptop; stickers on it,Campus Center - Pomona College,2026-11-23,found_demo@example.edu
+LF001,Lost,scarf,Clothing,blue red scarf; in good condition,Parking Lot - Claremont McKenna College,2026-11-10,lost_demo@example.edu
+LF048,Found,glasses,Accessories,white glasses case; personal markings,Dorm - Scripps College,2026-11-14,found_demo@example.edu
+LF077,Lost,textbook,Books,brown economics textbook; no visible damage,Dining Hall - Harvey Mudd College,2026-11-15,lost_demo@example.edu
+LF047,Lost,glasses,Accessories,white glasses case; personal markings,Dorm - Scripps College,2026-11-14,lost_demo@example.edu
+LF075,Found,bike lock,Other,white bike lock; personal markings,Honnold-Mudd Library - Pitzer College,2026-11-06,found_demo@example.edu
+LF053,Found,backpack,Bags,purple North Face backpack; in good condition,Outdoor Area - Harvey Mudd College,2026-11-01,found_demo@example.edu
+LF017,Lost,wallet,Accessories,blue brown wallet; in good condition,Parking Lot - Harvey Mudd College,2026-11-16,lost_demo@example.edu
+LF082,Lost,keys,Keys,black key ring; in good condition,Classroom - Pitzer College,2026-11-16,lost_demo@example.edu
+LF081,Found,bike lock,Other,silver combination bike lock; personal markings,Dining Hall - Harvey Mudd College,2026-11-17,found_demo@example.edu
+LF026,Found,charger,Electronics,green laptop charger; stickers on it,Athletic Center - Scripps College,2026-11-11,found_demo@example.edu
+LF086,Found,charger,Electronics,red laptop charger; no visible damage,Classroom - Harvey Mudd College,2026-11-18,found_demo@example.edu
+LF071,Found,student ID,ID Cards,white Pomona student ID; small scratch,Athletic Center - Claremont McKenna College,2026-11-14,found_demo@example.edu
+LF023,Lost,umbrella,Other,pink blue umbrella; personal markings,Dining Hall - Pomona College,2026-11-01,lost_demo@example.edu
+LF052,Found,phone,Electronics,red Samsung phone; stickers on it,Library - Scripps College,2026-11-14,found_demo@example.edu
+LF065,Lost,laptop,Electronics,white Dell laptop; personal markings,Classroom - Harvey Mudd College,2026-11-07,lost_demo@example.edu
+LF011,Lost,umbrella,Other,black folding umbrella; personal markings,Campus Center - Harvey Mudd College,2026-11-20,lost_demo@example.edu
+LF004,Found,keys,Keys,red key ring; stickers on it,Library - Claremont McKenna College,2026-11-09,found_demo@example.edu
+LF066,Found,wallet,Accessories,black brown wallet; in good condition,Outdoor Area - Scripps College,2026-11-02,found_demo@example.edu
+LF018,Found,wallet,Accessories,blue brown wallet; in good condition,Parking Lot - Harvey Mudd College,2026-11-16,found_demo@example.edu
+LF070,Lost,glasses,Accessories,brown round glasses; small scratch,Library - Pitzer College,2026-11-13,lost_demo@example.edu
+LF062,Found,tote bag,Bags,pink blue tote bag; in good condition,Parking Lot - Pomona College,2026-11-19,found_demo@example.edu
+LF008,Found,scarf,Clothing,red gray scarf; no visible damage,Dining Hall - Claremont McKenna College,2026-11-11,found_demo@example.edu
+LF096,Found,keys,Keys,gray silver keys; in good condition,Campus Center - Scripps College,2026-11-11,found_demo@example.edu
+LF049,Lost,umbrella,Other,brown black umbrella; no visible damage,Honnold-Mudd Library - Pitzer College,2026-11-17,lost_demo@example.edu
+LF038,Found,flash drive,Electronics,silver USB flash drive; no visible damage,Dorm - Pomona College,2026-11-24,found_demo@example.edu
+LF073,Lost,keys,Keys,white key ring; small scratch,Athletic Center - Pitzer College,2026-11-04,lost_demo@example.edu
+LF039,Lost,textbook,Books,gray economics textbook; personal markings,Campus Center - Scripps College,2026-11-24,lost_demo@example.edu
+LF028,Found,glasses,Accessories,silver black glasses; in good condition,Dining Hall - Harvey Mudd College,2026-11-13,found_demo@example.edu
+LF042,Found,umbrella,Other,pink folding umbrella; personal markings,Dorm - Harvey Mudd College,2026-11-17,found_demo@example.edu
+LF088,Lost,wallet,Accessories,silver black wallet; personal markings,Parking Lot - Claremont McKenna College,2026-11-03,lost_demo@example.edu
+LF025,Lost,charger,Electronics,green laptop charger; stickers on it,Athletic Center - Scripps College,2026-11-11,lost_demo@example.edu
+LF083,Lost,headphones,Electronics,green JBL headphones; small scratch,Dining Hall - Harvey Mudd College,2026-11-08,lost_demo@example.edu
+LF044,Found,ring,Accessories,gray gold ring; personal markings,Athletic Center - Claremont McKenna College,2026-11-14,found_demo@example.edu
+LF007,Lost,scarf,Clothing,red gray scarf; no visible damage,Dining Hall - Claremont McKenna College,2026-11-11,lost_demo@example.edu
+LF067,Lost,notebook,Books,gray blue notebook; stickers on it,Dining Hall - Harvey Mudd College,2026-11-17,lost_demo@example.edu
+LF099,Found,calculator,Electronics,green scientific calculator; small scratch,Campus Center - Scripps College,2026-11-23,found_demo@example.edu
+LF012,Found,umbrella,Other,black folding umbrella; personal markings,Campus Center - Harvey Mudd College,2026-11-20,found_demo@example.edu
